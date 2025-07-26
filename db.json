@@ -1,5 +1,32 @@
 {
-    "user":[
-        
-    ]
+  "user": [
+    {
+      "id": "3d15",
+      "name": "Satyam Kumar suman",
+      "email": "satyamsingh08122001@gmail.com",
+      "mobile": "08210853241",
+      "password": "8765"
+    },
+    {
+      "id": "00e3",
+      "name": "Satyam Kumar suman",
+      "email": "satyamsingh08122001@gmail.com",
+      "mobile": "08210853241",
+      "password": "8765"
+    },
+    {
+      "id": "f139",
+      "name": "Satyam Kumar suman",
+      "email": "satyamsingh08122001@gmail.com",
+      "mobile": "08210853241",
+      "password": "8765"
+    },
+    {
+      "id": "5e50",
+      "name": "frey",
+      "email": "tyterr4",
+      "mobile": "7654",
+      "password": "1234"
+    }
+  ]
 }
