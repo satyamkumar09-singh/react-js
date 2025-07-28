@@ -6,6 +6,7 @@ import Nav from './coponent/Nav.jsx';
 import { BrowserRouter as Router,Routes,Route } from 'react-router-dom';
 import Dashboard from './coponent/Dashboard.jsx';
 import Product from './coponent/product.jsx';
+import Superdashboard from './coponent/superdashboard.jsx';
 function App() {
   
 
@@ -18,6 +19,7 @@ function App() {
           <Route path='/page2' element={<Page2/>}></Route>
           <Route path='/dashboard' element={<Dashboard/>}></Route>
           <Route path='/product' element={<Product/>}></Route>
+          <Route path='/super' element={<Superdashboard/>}></Route>
         </Routes>
       </Router>
         
