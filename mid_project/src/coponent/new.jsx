@@ -2,7 +2,7 @@ import React from 'react'
 
 const new = () => {
   return (
-    <div>new</div>
+    <>{2+4}</>
   )
 }
 

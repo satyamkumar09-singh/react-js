@@ -44,4 +44,69 @@ a:hover{
     width: 100%;
     background-color: cyan;
 }
-.
+/*for page 1*/
+
+form {
+  max-width: 400px;
+  margin: 50px auto;
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+fieldset {
+  border: none;
+  padding: 0;
+}
+
+legend {
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 12px 15px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  transition: 0.3s ease;
+  font-size: 1em;
+}
+
+input:focus {
+  border-color: #5e72e4;
+  outline: none;
+  box-shadow: 0 0 5px rgba(94, 114, 228, 0.5);
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  background-color: #5e72e4;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 1em;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #324cdd;
+}
+
+h1 {
+  font-size: 1em;
+  color: #444;
+  margin-top: 10px;
+  text-align: center;
+}

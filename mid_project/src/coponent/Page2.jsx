@@ -2,26 +2,7 @@ import React from 'react'
 import { useState } from 'react'
 // import { useLocation } from 'react-router-dom'
 const Page2 = () => {
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
-    
   //   const location=useLocation();
   //   const formdata=location.state;
   //   console.log(formdata);

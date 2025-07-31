@@ -11,6 +11,7 @@ const Page1 = () => {
 
  
   const API_URL='http://localhost:3001/user'
+ 
 
   const[formdata,setformdata]=useState({
     name:"",
