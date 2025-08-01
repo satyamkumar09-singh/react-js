@@ -110,3 +110,60 @@ h1 {
   margin-top: 10px;
   text-align: center;
 }
+
+/* table */
+form {
+  max-width: 400px;
+  margin: 30px auto;
+  background: #f4f1f1;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1em;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #5e72e4;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+button:hover {
+  background-color: #324cdd;
+}
+
+.vtable {
+  width: 90%;
+  margin: 30px auto;
+  border-collapse: collapse;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  font-family: sans-serif;
+}
+
+.vtable th,
+.vtable td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: center;
+}
+
+.vtable th {
+  background-color: #5e72e4;
+  color: white;
+}
+
+.vtable tr:nth-child(even) {
+  background-color: #73b2be;
+}
