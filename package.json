@@ -5,5 +5,8 @@
     "react": "^19.1.0",
     "router": "^2.2.0",
     "vite": "^7.0.5"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
   }
 }
